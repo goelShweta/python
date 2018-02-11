@@ -1,0 +1,12 @@
+<!doctype html>
+
+<!-- link creation by using <a> -->
+
+<html>
+</head>
+<title>creating link</title>
+</head>
+<body>
+<a href="http://facebook.com">click to open facebook</a>
+</body>
+</html>
