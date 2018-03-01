@@ -1,0 +1,10 @@
+pip uninstall matpltlib //to uninstall the lib. in python
+
+sudo apt install python-pip
+
+sudo pip install matplotlib
+
+**********IN WINDOWS******
+
+python -mpip install -U pip
+python -mpip install -U matplotlib
